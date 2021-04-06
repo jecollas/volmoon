@@ -15,7 +15,7 @@ page_00:
   image:
   alt:
   text:
-  choice1: START
+  choice1: Let's begin.
   choice2:
   choice3:
   link1: page_01.html
