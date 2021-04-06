@@ -1,6 +1,6 @@
-# this is where the page information is going to go
+# this is where the page_ information is going to go
 # Setup
-# page:
+# page_:
 #   image:
 #   alt:
 #   text:
@@ -11,18 +11,18 @@
 #   link2:
 #   link3:
 
-page00:
+page_00:
   image:
   alt:
   text:
   choice1: START
   choice2:
   choice3:
-  link1: page01.html
+  link1: page_01.html
   link2:
   link3:
 
-page01:
+page_01:
   image:
   alt:
   text: |
@@ -32,11 +32,11 @@ page01:
   choice1: Towards the cow pasture (left)
   choice2: Through the woods (right)
   choice3:
-  link1: page02.html
-  link2: page25.html
+  link1: page_02.html
+  link2: page_25.html
   link3:
 
-page02:
+page_02:
   image:
   alt:
   text: |
@@ -46,11 +46,11 @@ page02:
   choice1: Bedburg can wait while you rest.
   choice2:
   choice3:
-  link1: page03.html
+  link1: page_03.html
   link2:
   link3:
 
-page03:
+page_03:
   image:
   alt:
   text: |
@@ -60,11 +60,11 @@ page03:
   choice1: What in God's name is that Thing?
   choice2:
   choice3:
-  link1: page04.html
+  link1: page_04.html
   link2:
   link3:
 
-page04:
+page_04:
   image:
   alt:
   text: |
@@ -74,11 +74,11 @@ page04:
   choice1: Fight.
   choice2: Flight.
   choice3: Freeze.
-  link1: page05.html
-  link2: page11.html
-  link3: page17.html
+  link1: page_05.html
+  link2: page_11.html
+  link3: page_17.html
 
-page05:
+page_05:
   image:
   alt:
   text: |
@@ -88,33 +88,33 @@ page05:
   choice1: Be good, my love, or the Monster will come for you.
   choice2:
   choice3:
-  link1: page06.html
+  link1: page_06.html
   link2:
   link3:
 
-page06:
+page_06:
   image:
   alt:
   text: The creature jumps out of the cow's path before they can collide. It drags the little girl with it, and movement finally drags a wail from her bloodied lips. The collar of her dress is almost black in the low light of oncoming dusk.
   choice1: Do not anger, my love, or the Monster will take you away.
   choice2:
   choice3:
-  link1: page07.html
+  link1: page_07.html
   link2:
   link3:
 
-page07:
+page_07:
   image:
   alt:
   text: There is a reason why it is unwise for children to play where the cattle graze. Cows are easily startled creatures, and sometimes all it takes is one wayward cry to cause the rest to stampede.
   choice1: Obey me, my love, or the Monster will eat you for dinner.
   choice2:
   choice3:
-  link1: page08.html
+  link1: page_08.html
   link2:
   link3:
 
-page08:
+page_08:
   image:
   alt:
   text: |
@@ -124,22 +124,22 @@ page08:
   choice1: Do not cry, my love, for I will keep you safe from the Dark.
   choice2:
   choice3:
-  link1: page09.html
+  link1: page_09.html
   link2:
   link3:
 
-page09:
+page_09:
   image:
   alt:
   text: The creature is struck by one of the stampeding cows, having been too distracted by its focused fury towards you to even think about running. It yelps in pain, and in that moment, lets go of the little girl. Her body is airborne, limp like a doll's when the creature tosses her aside. You dive towards her, arms outstretched, and snatch her out of the air. You tumble, and as you fall into the path of the stampede you fold yourself around the bleeding girl to shield her from any further harm.
   choice1: I promise, I will keep you safe.
   choice2:
   choice3:
-  link1: page10.html
+  link1: page_10.html
   link2:
   link3:
 
-page10:
+page_10:
   image:
   alt:
   text: |
@@ -163,18 +163,18 @@ page10:
   link2:
   link3:
 
-page11:
+page_11:
   image:
   alt:
   text: Panic and fear spurs you into action, and without any thought or hesitation, you are running as fast and as far away as your legs will carry you.
   choice1: Scream.
   choice2:
   choice3:
-  link1: page12.html
+  link1: page_12.html
   link2:
   link3:
 
-page12:
+page_12:
   image:
   alt:
   text: |
@@ -186,33 +186,33 @@ page12:
   choice1: Scream long and loud.
   choice2:
   choice3:
-  link1: page13.html
+  link1: page_13.html
   link2:
   link3:
 
-page13:
+page_13:
   image:
   alt:
   text: You feel the faint rumble of the ground beneath your feet as the tide of stampede begins to swell behind you. The creature may be able to avoid being trampled by one cow, but it will not be able to escape the rest of them. You know this in the back of your mind, but the thought never registers.
   choice1: Nobody can hear you. Nobody would care if they did.
   choice2:
   choice3:
-  link1: page14.html
+  link1: page_14.html
   link2:
   link3:
 
-page14:
+page_14:
   image:
   alt:
   text: Rough hands grab at your shoulders and stop you in your tracks. One of the farmers is holding you by the shirt collar and demanding to know what's going on. You babble something about a cow and the girl and the thing that grabbed her and its eyes, oh God, its terrible eyes. They burn straight through your soul and into Hell and even when you cover your face and block out the world you cannot escape those horrible, inhuman eyes.
   choice1: God help us, the Monster is coming for us all.
   choice2:
   choice3:
-  link1: page15.html
+  link1: page_15.html
   link2:
   link3:
 
-page15:
+page_15:
   image:
   alt:
   text: |
@@ -222,11 +222,11 @@ page15:
   choice1: Yes, she will live, but what help were you?
   choice2:
   choice3:
-  link1: page16.html
+  link1: page_16.html
   link2:
   link3:
 
-page16:
+page_16:
   image:
   alt:
   text: |
@@ -240,7 +240,7 @@ page16:
   link2:
   link3:
 
-page17:
+page_17:
   image:
   alt:
   text: |
@@ -250,22 +250,22 @@ page17:
   choice1: Don't bother moving, for your feet will remain rooted.
   choice2:
   choice3:
-  link1: page18.html
+  link1: page_18.html
   link2:
   link3:
 
-page18:
+page_18:
   image:
   alt:
   text: The girl's eyes are brown, you notice. They're bright, and reflect the fading sunlight in tiny hints of gold. She stares at nothing in return, but you can see pinpricks of tears start to roll down her cheeks.
   choice1: Don't bother blinking, for your eyes will remain wide.
   choice2:
   choice3:
-  link1: page19.html
+  link1: page_19.html
   link2:
   link3:
 
-page19:
+page_19:
   image:
   alt:
   text: |
@@ -277,11 +277,11 @@ page19:
   choice1: Don't bother screaming, for your voice will remain mine.
   choice2:
   choice3:
-  link1: page20.html
+  link1: page_20.html
   link2:
   link3:
 
-page21:
+page_21:
   image:
   alt:
   text: |
@@ -291,11 +291,11 @@ page21:
   choice1: Poor little deer, frozen in the oncoming light.
   choice2:
   choice3:
-  link1: page22.html
+  link1: page_22.html
   link2:
   link3:
 
-page22:
+page_22:
   image:
   alt:
   text: |
@@ -307,11 +307,11 @@ page22:
   choice1: Inaction is itself an action, and yields consequence much the same.
   choice2:
   choice3:
-  link1: page23.html
+  link1: page_23.html
   link2:
   link3:
 
-page23:
+page_23:
   image:
   alt:
   text: |
@@ -325,11 +325,11 @@ page23:
   choice1: Rise, little deer. You still have yet a ways to go before nightfall.
   choice2:
   choice3:
-  link1: page24.html
+  link1: page_24.html
   link2:
   link3:
 
-page24:
+page_24:
   image:
   alt:
   text: Dusk settles upon the pines and autumn trees. By the time you finally have the strength to stand, the stars have already gathered themselves into constellations. Night has fallen, and you are still not any closer to Bedburg than you were before this whole ordeal began. The yellow moon mocks you from its place in the sky, burning with malice and glee. You have no choice but to keep walking.
@@ -340,7 +340,7 @@ page24:
   link2:
   link3:
 
-page25:
+page_25:
   image:
   alt:
   text:
@@ -351,7 +351,7 @@ page25:
   link2:
   link3:
 
-page26:
+page_26:
   image:
   alt:
   text:
@@ -362,7 +362,7 @@ page26:
   link2:
   link3:
 
-page27:
+page_27:
   image:
   alt:
   text:
@@ -373,7 +373,7 @@ page27:
   link2:
   link3:
 
-page28:
+page_28:
   image:
   alt:
   text:
@@ -384,7 +384,7 @@ page28:
   link2:
   link3:
 
-page29:
+page_29:
   image:
   alt:
   text:
@@ -395,7 +395,7 @@ page29:
   link2:
   link3:
 
-page30:
+page_30:
   image:
   alt:
   text:
