@@ -2,7 +2,7 @@
 
 <img class="vol-img" src="{{ page.image }}" alt="{{ page.alt }}">
 
-<p class="text">{{ page.text }}</p>
+<p class="text">{{ page.text | newline_to_br }}</p>
 <div class="links">
   <a href="{{ page.link1 }}"><button type="button" class="btn btn-secondary">{{ page.choice1 }}</button></a>
 </div>
