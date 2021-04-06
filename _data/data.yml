@@ -28,19 +28,19 @@ page_01:
   text: |
     expository dump, you're an investigator, bad shit's happening in bedburg, its your job to solve it, blah blah blah
 
-    [FORK IN THE ROAD] As you continue on your way, you come upon a fork in the road. To the left, the path continues on through the woods. To the right, it continues
-  choice1: Towards the cow pasture (left)
-  choice2: Through the woods (right)
+    [FORK IN THE ROAD] As you continue on your way, you come upon a fork in the road. To the left, the woods open into a cow pasture. To the right, the path continues on through the woods.
+  choice1: Left, towards the woods.
+  choice2: Right, towards the cow pasture.
   choice3:
-  link1: page_02.html
-  link2: page_24.html
+  link1: page_24.html
+  link2: page_02.html
   link3:
 
 page_02:
   image:
   alt:
   text: |
-    You take the detour out of the woods and head towards the cow pasture. You hear children screaming and giggling, and as you approach you can see a group of them – what looks to be five or six in total – darting between the cattle as they chase each other in a frenzied game of tag while two farmers (likely these children's fathers) work in the field just beyond the fence. They pay no heed to the setting sun, nor do any of them seem to notice it. You pause for a moment and lean against one of the fence posts, watching them as they play.
+    You head out of the woods and towards the cow pasture. You hear the sound of children giggling and screaming, and as you approach you can see a group of them – what looks to be five or six in total – darting between the cattle as they chase each other in a frenzied game of tag while two farmers (likely these children's fathers) work in the field just beyond the fence. They pay no heed to the setting sun, nor do any of them seem to notice it. You pause for a moment and lean against one of the fence posts, watching them as they play.
 
     One of the cattle notices you as you lean against a fence post, and turns to look at you with its big brown eyes. You gesture it over with some grass pulled fresh from the ground, and when the cow eats from your hand, you offer it an affectionate scratch behind the ears. Its hair is soft and pleasant, and you can't help but smile at the sensation.
   choice1: Bedburg can wait while you rest.
