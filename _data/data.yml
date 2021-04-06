@@ -33,7 +33,7 @@ page_01:
   choice2: Through the woods (right)
   choice3:
   link1: page_02.html
-  link2: page_25.html
+  link2: page_24.html
   link3:
 
 page_02:
@@ -281,7 +281,7 @@ page_19:
   link2:
   link3:
 
-page_21:
+page_20:
   image:
   alt:
   text: |
@@ -291,11 +291,11 @@ page_21:
   choice1: Poor little deer, frozen in the oncoming light.
   choice2:
   choice3:
-  link1: page_22.html
+  link1: page_21.html
   link2:
   link3:
 
-page_22:
+page_21:
   image:
   alt:
   text: |
@@ -307,11 +307,11 @@ page_22:
   choice1: Inaction is itself an action, and yields consequence much the same.
   choice2:
   choice3:
-  link1: page_23.html
+  link1: page_22.html
   link2:
   link3:
 
-page_23:
+page_22:
   image:
   alt:
   text: |
@@ -325,11 +325,11 @@ page_23:
   choice1: Rise, little deer. You still have yet a ways to go before nightfall.
   choice2:
   choice3:
-  link1: page_24.html
+  link1: page_23.html
   link2:
   link3:
 
-page_24:
+page_23:
   image:
   alt:
   text: Dusk settles upon the pines and autumn trees. By the time you finally have the strength to stand, the stars have already gathered themselves into constellations. Night has fallen, and you are still not any closer to Bedburg than you were before this whole ordeal began. The yellow moon mocks you from its place in the sky, burning with malice and glee. You have no choice but to keep walking.
@@ -340,10 +340,21 @@ page_24:
   link2:
   link3:
 
-page_25:
+page_24:
   image:
   alt:
   text: PLACEHOLDER TEXT
+  choice1:
+  choice2:
+  choice3:
+  link1:
+  link2:
+  link3:
+
+page_25:
+  image:
+  alt:
+  text:
   choice1:
   choice2:
   choice3:
