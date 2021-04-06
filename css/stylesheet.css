@@ -14,30 +14,37 @@ body {
   padding-top: 2em;
 }
 
-p {
-  text-align: center;
-}
-
 .text {
   color: #939290;
   max-width: 50%;
   padding-top: 2em;
   margin-left: auto;
   margin-right: auto;
+  font-size: 16pt;
 }
 
 .links {
+  font-family: 'Tangerine', cursive;
+  font-size: 45pt;
   list-style-type: none;
   text-align: center;
-  display: block;
-  margin: none;
+  max-width: 50%;
+  margin-left: auto;
+  margin-right: auto;
   padding-bottom: 2em;
 }
 
 a,
 a:hover {
   text-decoration: none;
+}
+
+a {
   color: #DDDDDD;
+}
+
+a:hover {
+  color: #FFCC01;
 }
 
 br {
@@ -55,18 +62,19 @@ button {
 }
 
 @media only screen and (max-width: 600px) {
-  .ollie-img {
+  .vol-img {
     max-width: 80%;
     height: auto;
   }
 
-  .text {
+  .text,
+  .links {
     max-width: 80%;
     margin-left: auto;
     margin-right: auto;
   }
 
-  button {
+  /* .links {
     width: 80%;
-  }
+  } */
 }
