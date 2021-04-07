@@ -26,38 +26,45 @@ page_01:
   image:
   alt:
   text: |
-    expository dump, you're an investigator, bad shit's happening in bedburg, its your job to solve it, blah blah blah
+    Something is hunting the people of Bedburg, Germany. Or at least, that's what the townsfolk there are claiming. You've been receiving frantic letters and reports about this for some time now. Cows mutilated, children going missing, and the bodies of young men and women found mangled in the woods almost beyond recognition. Ordinarily, you would have written all of this off as hysteria over an unfortunate series of animal attacks (wolves aren't uncommon in that area, after all), but things had changed when you received word of a most gruesome discover.
 
-    [FORK IN THE ROAD] As you continue on your way, you come upon a fork in the road. To the left, the woods open into a cow pasture. To the right, the path continues on through the woods.
-  choice1: Left, towards the woods.
-  choice2: Right, towards the cow pasture.
+    Severed limbs had been found neatly tucked away in one of the fields outside of Bedburg. It wasn't the buried remains of an animal's half-finished meal, either. The letter from which you learned this news stated that the macabre scene had been arranged so that an unbloodied hand was just visible through the underbrush. According to the letter, the person who stumbled upon the display initially thought that the hand belonged to a person in distress. They learned the truth once they pushed aside the leaves and branches, but the sight was enough for them to lose consciousness for several minutes after the fact.
+
+    You could make all sorts of doubts and excuses, but the letter had explicitly stated that the missing limbs had been arranged, not left behind. It was your job to investigate such strange goings-on, and despite your earlier misgivings, this wasn't something that you could easily ignore. Whichever manner of creature responsible for this was trying to send a message; it wasn't just hunting the people of Bedburg, it was doing it for sport.
+
+    All of this and more runs through your head as you continue along the main road. You are making good time for foot travel, but the autumn sun is setting earlier by the day, and you can't help but feel slightly nervous. After all, the thing that you are meant to be investigating kills lone travelers on these very roads, and you do not want to count yourself amongst its victims. At least, not yet.
+  choice1: Keep walking. You will surely make it before nightfall.
+  choice2:
   choice3:
-  link1: page_24.html
-  link2: page_02.html
+  link1: page_02.html
+  link2:
   link3:
 
 page_02:
   image:
+    # img/volmoon2.gif
   alt:
   text: |
-    You head out of the woods and towards the cow pasture. You hear the sound of children giggling and screaming, and as you approach you can see a group of them – what looks to be five or six in total – darting between the cattle as they chase each other in a frenzied game of tag while two farmers (likely these children's fathers) work in the field just beyond the fence. They pay no heed to the setting sun, nor do any of them seem to notice it. You pause for a moment and lean against one of the fence posts, watching them as they play.
+    Your studies of the road map have paid off, and there are no unexpected diversions in your path. That is, until you come upon a fork in the road.
 
-    One of the cattle notices you as you lean against a fence post, and turns to look at you with its big brown eyes. You gesture it over with some grass pulled fresh from the ground, and when the cow eats from your hand, you offer it an affectionate scratch behind the ears. Its hair is soft and pleasant, and you can't help but smile at the sensation.
-  choice1: Bedburg can wait while you rest.
-  choice2:
+    The signpost in the middle tells you that you take will reach Bedburg no matter which direction you take, so you pause and look down either path. To the left, the path continues on through the woods. The road is much the same as the one you are currently on, and you think to yourself that it is likely the main road that travelers take into Bedburg. To the right, the woods go off for a ways before opening into what looks like a cow pasture. You hear the braying of cattle, as well as the distant sounds of indistinct sounds of children yelling as they play.
+  choice1: Left, through the woods.
+  choice2: Right, towards the cow pasture.
   choice3:
-  link1: page_03.html
-  link2:
+  link1: page_25.html
+  link2: page_03.html
   link3:
 
 page_03:
   image:
   alt:
   text: |
-    A moment becomes a minute, and one minute turns into two. The sky is burning gold into rust as the twilight sets in and brings along the sounds of night. The cow hasn't bothered moving yet, seeming rather contented to let you stay and scratch under its chin. It lets out a contented moo – a sound that joins the chorus of buzzing insects and laughing children.
+    After a moment's consideration, you head off the beaten path and towards the cow pasture. The darkening woods were starting to give you the creeps, and besides! It never hurts to have change in scenery.
 
-    You want to stay longer and rest your aching legs, but the momentary peace is wrinkled by the setting sun. You really should be on your way. You reluctantly let go of your new cow friend (maybe you can come back and visit) so that you can readjust the heavy pack on your shoulders, and whether by fate or by design, that is the moment when you look up and see a dark shape latching feral jaws around the neck of one of the little girls.
-  choice1: What in God's name is that Thing?
+    The sounds of giggling and shrieking gets louder as you approach, and as you get closer you can make out what looks to be five or six children darting between cattle as they chase each other in a frenzied game of tag. There are two farmers working in the field just beyond the fence (likely these children's fathers). Neither they nor their children seem to notice the setting sun. Or, if they do, they do not pay it any heed. You lean against one of the fence posts for a moment, watching the children as they play.
+
+    As you do, one of the cattle takes notice of you. It turns to look at you with its big brown eyes, you gesture it over with some grass pulled fresh from the ground. The cow ambles over to sniff it, and when it eats from your hand you offer it an affectionate scratch behind the ears. Its hair is soft and pleasant, and you can't help but smile at the sensation.
+  choice1: Take a break. Bedburg can wait a moment's rest.
   choice2:
   choice3:
   link1: page_04.html
@@ -68,17 +75,31 @@ page_04:
   image:
   alt:
   text: |
+    A moment becomes a minute, and one minute turns into two. The sky is burning gold into rust as the twilight sets in and brings along the sounds of night. The cow hasn't bothered moving yet, seeming rather contented to let you stay and scratch under its chin. It lets out a contented moo – a sound that joins the chorus of buzzing insects and laughing children.
+
+    You want to stay longer and rest your aching legs, but the momentary peace is wrinkled by the setting sun. You really should be on your way. You reluctantly let go of your new cow friend (maybe you can come back and visit) so that you can readjust the heavy pack on your shoulders, and whether by fate or by design, that is the moment when you look up and see a dark shape latching feral jaws around the neck of one of the little girls.
+  choice1: What in God's name is that Thing?
+  choice2:
+  choice3:
+  link1: page_05.html
+  link2:
+  link3:
+
+page_05:
+  image:
+  alt:
+  text: |
     The dying of the light isn't the only thing to have gone unnoticed, but just as you might have wondered how anyone could miss something as obvious as a setting sun, you marvel to yourself how anyone could have possibly missed the thing that now stands before you.
 
     It is more massive than any creature that silent has any right to be, and in the split second that you lay eyes on it, the only thing you can see is the girl's face – her eyes wide in a silent mask of fear – and the thing's teeth digging into her throat and staining her white collar a dark, weeping red.
   choice1: Fight.
   choice2: Flight.
   choice3: Freeze.
-  link1: page_05.html
-  link2: page_11.html
-  link3: page_17.html
+  link1: page_06.html
+  link2: page_12.html
+  link3: page_18.html
 
-page_05:
+page_06:
   image:
   alt:
   text: |
@@ -88,17 +109,6 @@ page_05:
   choice1: Be good, my love, or the Monster will come for you.
   choice2:
   choice3:
-  link1: page_06.html
-  link2:
-  link3:
-
-page_06:
-  image:
-  alt:
-  text: The creature jumps out of the cow's path before they can collide. It drags the little girl with it, and movement finally drags a wail from her bloodied lips. The collar of her dress is almost black in the low light of oncoming dusk.
-  choice1: Do not anger, my love, or the Monster will take you away.
-  choice2:
-  choice3:
   link1: page_07.html
   link2:
   link3:
@@ -106,8 +116,8 @@ page_06:
 page_07:
   image:
   alt:
-  text: There is a reason why it is unwise for children to play where the cattle graze. Cows are easily startled creatures, and sometimes all it takes is one wayward cry to cause the rest to stampede.
-  choice1: Obey me, my love, or the Monster will eat you for dinner.
+  text: The creature jumps out of the cow's path before they can collide. It drags the little girl with it, and movement finally drags a wail from her bloodied lips. The collar of her dress is almost black in the low light of oncoming dusk.
+  choice1: Do not anger, my love, or the Monster will take you away.
   choice2:
   choice3:
   link1: page_08.html
@@ -117,11 +127,8 @@ page_07:
 page_08:
   image:
   alt:
-  text: |
-    The ground rumbles beneath your feet as the tide of stampede begins to swell. The creature may have been able to avoid being trampled by one cow, but it will not be able to escape the rest of them. The creature turns, and in that moment you know that it aims to leave with the little girl as its prize.
-
-    Your heavy pack hits the ground, and then you're over the wooden fence and sprinting as hard and as fast as you can. You scream, and for one terrible moment, the creature turns and focuses its gaze on you. Its eyes burn a gold that is brighter and more full of hatred than the fiery pits of hell, and were it not for the blood pounding in your ears you would have been frozen where you stand.
-  choice1: Do not cry, my love, for I will keep you safe from the Dark.
+  text: There is a reason why it is unwise for children to play where the cattle graze. Cows are easily startled creatures, and sometimes all it takes is one wayward cry to cause the rest to stampede.
+  choice1: Obey me, my love, or the Monster will eat you for dinner.
   choice2:
   choice3:
   link1: page_09.html
@@ -131,8 +138,11 @@ page_08:
 page_09:
   image:
   alt:
-  text: The creature is struck by one of the stampeding cows, having been too distracted by its focused fury towards you to even think about running. It yelps in pain, and in that moment, lets go of the little girl. Her body is airborne, limp like a doll's when the creature tosses her aside. You dive towards her, arms outstretched, and snatch her out of the air. You tumble, and as you fall into the path of the stampede you fold yourself around the bleeding girl to shield her from any further harm.
-  choice1: I promise, I will keep you safe.
+  text: |
+    The ground rumbles beneath your feet as the tide of stampede begins to swell. The creature may have been able to avoid being trampled by one cow, but it will not be able to escape the rest of them. The creature turns, and in that moment you know that it aims to leave with the little girl as its prize.
+
+    Your heavy pack hits the ground, and then you're over the wooden fence and sprinting as hard and as fast as you can. You scream, and for one terrible moment, the creature turns and focuses its gaze on you. Its eyes burn a gold that is brighter and more full of hatred than the fiery pits of hell, and were it not for the blood pounding in your ears you would have been frozen where you stand.
+  choice1: Do not cry, my love, for I will keep you safe from the Dark.
   choice2:
   choice3:
   link1: page_10.html
@@ -140,6 +150,17 @@ page_09:
   link3:
 
 page_10:
+  image:
+  alt:
+  text: The creature is struck by one of the stampeding cows, having been too distracted by its focused fury towards you to even think about running. It yelps in pain, and in that moment, lets go of the little girl. Her body is airborne, limp like a doll's when the creature tosses her aside. You dive towards her, arms outstretched, and snatch her out of the air. You tumble, and as you fall into the path of the stampede you fold yourself around the bleeding girl to shield her from any further harm.
+  choice1: I promise, I will keep you safe.
+  choice2:
+  choice3:
+  link1: page_11.html
+  link2:
+  link3:
+
+page_11:
   image:
   alt:
   text: |
@@ -163,18 +184,18 @@ page_10:
   link2:
   link3:
 
-page_11:
+page_12:
   image:
   alt:
   text: Panic and fear spurs you into action, and without any thought or hesitation, you are running as fast and as far away as your legs will carry you.
   choice1: Scream.
   choice2:
   choice3:
-  link1: page_12.html
+  link1: page_13.html
   link2:
   link3:
 
-page_12:
+page_13:
   image:
   alt:
   text: |
@@ -186,17 +207,6 @@ page_12:
   choice1: Scream long and loud.
   choice2:
   choice3:
-  link1: page_13.html
-  link2:
-  link3:
-
-page_13:
-  image:
-  alt:
-  text: You feel the faint rumble of the ground beneath your feet as the tide of stampede begins to swell behind you. The creature may be able to avoid being trampled by one cow, but it will not be able to escape the rest of them. You know this in the back of your mind, but the thought never registers.
-  choice1: Nobody can hear you. Nobody would care if they did.
-  choice2:
-  choice3:
   link1: page_14.html
   link2:
   link3:
@@ -204,8 +214,8 @@ page_13:
 page_14:
   image:
   alt:
-  text: Rough hands grab at your shoulders and stop you in your tracks. One of the farmers is holding you by the shirt collar and demanding to know what's going on. You babble something about a cow and the girl and the thing that grabbed her and its eyes, oh God, its terrible eyes. They burn straight through your soul and into Hell and even when you cover your face and block out the world you cannot escape those horrible, inhuman eyes.
-  choice1: God help us, the Monster is coming for us all.
+  text: You feel the faint rumble of the ground beneath your feet as the tide of stampede begins to swell behind you. The creature may be able to avoid being trampled by one cow, but it will not be able to escape the rest of them. You know this in the back of your mind, but the thought never registers.
+  choice1: Nobody can hear you. Nobody would care if they did.
   choice2:
   choice3:
   link1: page_15.html
@@ -215,11 +225,8 @@ page_14:
 page_15:
   image:
   alt:
-  text: |
-    The farmer shakes you in an attempt to snap you out of your panicked stupor. He roars for you to pull yourself together, and despite everything, you do.
-
-    There's a shout from behind you. The other farmer is wailing as he holds his daughter in his arms. Her cries are quieter, more pained, but still audible through the panic that clouds your senses like a haze. She's safe. She's alive. She is going to live.
-  choice1: Yes, she will live, but what help were you?
+  text: Rough hands grab at your shoulders and stop you in your tracks. One of the farmers is holding you by the shirt collar and demanding to know what's going on. You babble something about a cow and the girl and the thing that grabbed her and its eyes, oh God, its terrible eyes. They burn straight through your soul and into Hell and even when you cover your face and block out the world you cannot escape those horrible, inhuman eyes.
+  choice1: God help us, the Monster is coming for us all.
   choice2:
   choice3:
   link1: page_16.html
@@ -227,6 +234,20 @@ page_15:
   link3:
 
 page_16:
+  image:
+  alt:
+  text: |
+    The farmer shakes you in an attempt to snap you out of your panicked stupor. He roars for you to pull yourself together, and despite everything, you do.
+
+    There's a shout from behind you. The other farmer is wailing as he holds his daughter in his arms. Her cries are quieter, more pained, but still audible through the panic that clouds your senses like a haze. She's safe. She's alive. She is going to live.
+  choice1: Yes, she will live, but what help were you?
+  choice2:
+  choice3:
+  link1: page_17.html
+  link2:
+  link3:
+
+page_17:
   image:
   alt:
   text: |
@@ -240,7 +261,7 @@ page_16:
   link2:
   link3:
 
-page_17:
+page_18:
   image:
   alt:
   text: |
@@ -250,22 +271,22 @@ page_17:
   choice1: Don't bother moving, for your feet will remain rooted.
   choice2:
   choice3:
-  link1: page_18.html
+  link1: page_19.html
   link2:
   link3:
 
-page_18:
+page_19:
   image:
   alt:
   text: The girl's eyes are brown, you notice. They're bright, and reflect the fading sunlight in tiny hints of gold. She stares at nothing in return, but you can see pinpricks of tears start to roll down her cheeks.
   choice1: Don't bother blinking, for your eyes will remain wide.
   choice2:
   choice3:
-  link1: page_19.html
+  link1: page_20.html
   link2:
   link3:
 
-page_19:
+page_20:
   image:
   alt:
   text: |
@@ -277,11 +298,11 @@ page_19:
   choice1: Don't bother screaming, for your voice will remain mine.
   choice2:
   choice3:
-  link1: page_20.html
+  link1: page_21.html
   link2:
   link3:
 
-page_20:
+page_21:
   image:
   alt:
   text: |
@@ -291,11 +312,11 @@ page_20:
   choice1: Poor little deer, frozen in the oncoming light.
   choice2:
   choice3:
-  link1: page_21.html
+  link1: page_22.html
   link2:
   link3:
 
-page_21:
+page_22:
   image:
   alt:
   text: |
@@ -307,11 +328,11 @@ page_21:
   choice1: Inaction is itself an action, and yields consequence much the same.
   choice2:
   choice3:
-  link1: page_22.html
+  link1: page_23.html
   link2:
   link3:
 
-page_22:
+page_23:
   image:
   alt:
   text: |
@@ -325,11 +346,11 @@ page_22:
   choice1: Rise, little deer. You still have yet a ways to go before nightfall.
   choice2:
   choice3:
-  link1: page_23.html
+  link1: page_24.html
   link2:
   link3:
 
-page_23:
+page_24:
   image:
   alt:
   text: Dusk settles upon the pines and autumn trees. By the time you finally have the strength to stand, the stars have already gathered themselves into constellations. Night has fallen, and you are still not any closer to Bedburg than you were before this whole ordeal began. The yellow moon mocks you from its place in the sky, burning with malice and glee. You have no choice but to keep walking.
@@ -340,7 +361,7 @@ page_23:
   link2:
   link3:
 
-page_24:
+page_25:
   image:
   alt:
   text: PLACEHOLDER TEXT
