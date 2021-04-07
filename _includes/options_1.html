@@ -1,8 +1,10 @@
 {% assign page = site.data.data[page.page] %}
 
-<img class="vol-img" src="{{ page.image }}" alt="{{ page.alt }}">
+<!-- <img class="vol-img" src="{{ page.image }}" alt="{{ page.alt }}"> -->
 
-<div>{{ page.text | newline_to_br }}</div>
+<img class="vol-img" src="img/placeholder.jpg" alt="placeholder image">
+
+<div>{{ page.text }}</div>
 <div class="links">
   <a href="{{ page.link1 }}">{{ page.choice1 }}</a>
 </div>
