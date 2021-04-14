@@ -364,65 +364,428 @@ page_24:
 page_25:
   image:
   alt:
-  text: PLACEHOLDER TEXT
-  choice1:
+  text: |
+    <p>Shadows begin to stretch as you continue to wind your way through the woods. Night has not quite fallen yet, but the dense foliage hides the setting sun and makes everything darker in comparison. You have a lamp and tinderbox tucked away in your pack, but they don't make the idea of traveling alone at night any easier to bear. There is something hunting the citizens of Bedburg, after all. You would rather not be among the missing.</p>
+
+    <p>The sky is a burning orange when you give up and pause to light your lamp. Sudden light dances around you, hurting your eyes and making the shadows even more stark with its contrast. You close your tinderbox with a click and stow it back in your pack before hastening your step.</p>
+
+    <p>A part of you whispers that your journey should not have taken this long, and that surely this means that you are lost.</p>
+
+    <p>You shake that thought away as soon as it comes. <i>No, you are not lost. You studied the map and your route carefully. You followed the markers. You are on the right path. Bedburg is no more than a half-hour away, and you will be there soon.</i></p>
+  choice1: Keep moving.
   choice2:
   choice3:
-  link1:
+  link1: page_26.html
   link2:
   link3:
 
 page_26:
   image:
   alt:
-  text:
-  choice1:
+  text: <p>You see light on the road up ahead. As you get closer, you start to hear voices as well. Three people are walking the same direction that you are headed, chatting amicably and walking at a much slower pace.</p>
+  choice1: Join them. There's safety in numbers.
   choice2:
   choice3:
-  link1:
+  link1: page_27.html
   link2:
   link3:
 
 page_27:
   image:
   alt:
-  text:
-  choice1:
+  text: |
+    <p>You approach the group of travelers and introduce yourself to them with a wave. The three of them– two young men whose names you learn to be Johann and Fritz, and a young woman who introduces herself as Lena. They make good company and conversation, but they do not share your same sense of urgency.</p>
+
+    <p>You try not to be too visibly frustrated by the slowed pace of your new companions when you turn and ask them how much longer it would be until you reached the town ahead. You have been traveling all day, after all, and find yourself keener and keener to leave this woods and find a place to rest.</p>
+  choice1: Fret not, my friend, Bedburg is not much further ahead. We should be there in less than half of one hour. See?
   choice2:
   choice3:
-  link1:
+  link1: page_28.html
   link2:
   link3:
 
 page_28:
   image:
   alt:
-  text:
-  choice1:
+  text: |
+    <p>You nod, only somewhat satisfied with the answer and easy smile that Fritz gives you, and look where he points. You have to squint your eyes and crane your neck forward to see through the trees, but sure enough, you can just make out the great stone wall that encircles the entire town.</p>
+
+    <p>Once you see it, you're also able to pick out the smell of smoke and cooking meat. You probably would have been able to sense it sooner had it not been for the stink of the lamp in your hand.</p>
+  choice1: You seem stressed, friend. Do you have urgent business in Bedburg?
   choice2:
   choice3:
-  link1:
+  link1: page_29.html
   link2:
   link3:
 
 page_29:
   image:
   alt:
-  text:
-  choice1:
-  choice2:
+  text: <p>Lena's question gives you pause. You don't want to scare her or the others, but if they live in Bedburg, wouldn't they already know about the creature?</p>
+  choice1: Tell the truth.
+  choice2: Deflect the question.
   choice3:
-  link1:
-  link2:
+  link1: page_30.html
+  link2: page_31.html
   link3:
 
 page_30:
   image:
   alt:
-  text:
-  choice1:
+  text: |
+    <p>Somewhat reluctantly, you tell your new friends that you've been sent for to investigate what's been happening in Bedburg. The people going missing, the cattle being slaughtered, the bodies being found in the woods. They listen in solemn silence, the good-natured expressions having gone from their faces. They know something, that much is obvious.</p>
+
+    <p>You're careful as you pose the question. Do any of you know what might be causing this?</p>
+
+    <p>Johann, Lena, and Fritz share a look. They're scared, that much is certain. Then, Fritz asks if you believe in the Devil.</p>
+
+    <p><i>We're being punished for something, he says. I don't know what. But whatever's out there... It's not human. It's not an animal either. It's some kind of demon, taunting us and keeping us scared.</i></p>
+
+    <p><i>We're not scared, though,</i> Johann cuts in. <i>We think it's just a wolf, and that the town priest is pulling one over everyone.</i> That gets a laugh, albeit a slightly uncomfortable one.</p>
+  choice1: There's nothing to fear from the night.
   choice2:
   choice3:
-  link1:
+  link1: page_32.html
+  link2:
+  link3:
+
+page_31:
+  image:
+  alt:
+  text: <p>You laugh off Lena's question. No, but you've been traveling on foot for ages now, and you're looking forward to a bed and a hot meal. She hums in agreement and doesn't push you further. You're grateful for that – you don't want to potentially scare your new friends. They'll find out who you are and what your business is in Bedburg soon enough.</p>
+  choice1: There's nothing to fear from the night.
+  choice2:
+  choice3:
+  link1: page_32.html
+  link2:
+  link3:
+
+page_32:
+  image:
+  alt:
+  text: <p>The four of you continue on your way, basking in the assumed safety of your lanterns and each others' company. That safety is ripped out from under you when a scream tears through the night.</p>
+  choice1: Help, please! Somebody help me!
+  choice2:
+  choice3:
+  link1: page_33.html
+  link2:
+  link3:
+
+page_33:
+  image:
+  alt:
+  text: <p>Everyone stops in their tracks. All eyes dart towards the edge of the woods, then to each other. Johann, Lena, and Fritz all murmur to themselves, a soft chorus of, <i>Did you hear that? Of course I heard it. Who could it have been? I didn't recognize the voice. Was it a man? A woman? It sounded too old to be a child. What do we do?</i></p>
+  choice1: Someone should investigate.
+  choice2: Ignore it. Keep moving.
+  choice3:
+  link1: page_34.html
+  link2: page_35.html
+  link3:
+
+page_34:
+  image:
+  alt:
+  text: <p>There's a moment of silence as the four of you look at each other. <i>Who will go? Who will it be?</i> You are about to volunteer when Johann steps up, lantern in hand.</p>
+  choice1: Stay here. I'll be right back.
+  choice2:
+  choice3:
+  link1: page_36.html
+  link2:
+  link3:
+
+page_35:
+  image:
+  alt:
+  text: |
+    <p>You urge your new friends to ignore it. Whatever's happening is not your business. The woods are dangerous, and if any of you were to go out and investigate, you would surely meet the same fate as the poor soul calling for aid.</p>
+
+    <p>The pushback is immediate. Johann looks shocked and angry, and demands to know why you think the person out there is so unworthy of assistance. <i>Who are you to say that your life is worth more than a stranger's?</i> You feel your face burning, but don't say anything in your own defense.</p>
+  choice1: Johann can be a hero if he wants, but that doesn't mean that you have to like it.
+  choice2:
+  choice3:
+  link1: page_36.html
+  link2:
+  link3:
+
+page_36:
+  image:
+  alt:
+  text: |
+    <p>You watch as Johann pushes his way past the tree line and is immediately engulfed by shadow. He calls out to the hidden voice, asking it where it is, to stay there, and assuring that help is on the way. His voice fades quickly, as does the sound of crunching leaves and breaking sticks that mark Johann's footfalls. Even the light of his lantern becomes invisible past the trees and the growing dark.</p>
+
+    <p>You, Lena, and Fritz wait on the edge of the road, eyes and ears pricked for any sign of either Johann or the person he went to assist. You wait for one minute, then another, then another, then another. Five minutes pass, but the darkness and dread building in your gut makes it feel like longer.</p>
+  choice1: He's been gone too long. I'm going to go check on him.
+  choice2:
+  choice3:
+  link1: page_37.html
+  link2:
+  link3:
+
+page_37:
+  image:
+  alt:
+  text: <p>Lena looks at Fritz with wide eyes, but his brow is set as he stares out into the forest. She touches his arm and asks if he's sure.</p>
+  choice1: Say nothing.
+  choice2: Offer to go in his place.
+  choice3:
+  link1: page_41.html
+  link2: page_38.html
+  link3:
+
+page_38:
+  image:
+  alt:
+  text: |
+    <p>You raise a hand and interrupt. The relief on Fritz's face is palpable as you tell him to wait there with Lena. They stand close, their lamp light creating a point of origin as you venture off the beaten path and into the woods.</p>
+
+    <p>You call out Johann's name as you scan the trees and surrounding brush for any sign of the missing man. At some point you realize that you can't see Lena and Fritz's lamp light anymore, and it's in that same moment when something catches your attention out of the corner of your eye.</p>
+
+    <p>There's a slight movement amongst the trees. You can't hear the telltale sounds of footsteps, but something is moving the nearby branches, and it is too heavy to the autumn wind. You turn your oil lamp in that direction, scanning the foliage for something, anything. Your heart almost stops when you see a pair of eyes reflecting your lamp light back at you.</p>
+  choice1: What was that?
+  choice2:
+  choice3:
+  link1: page_39.html
+  link2:
+  link3:
+
+page_39:
+  image:
+  alt:
+  text: |
+    <p>The thing emerges from the dark. It approaches on all fours like an animal, but is standing on two legs by the time it steps into your small circle of light. It is massive – too large to be human, but human enough to be wearing shoes. It smiles at you, its jagged teeth a gleaming white save for the fresh blood that still decorates its lips.</p>
+
+    <p>That's not what scares you the most, though. Not its size, not its teeth, not the fact that it will likely kill you if you don't start running. No. The thing that stops you in your tracks and keeps you there are its eyes. Its inhuman, blazing gold eyes. They stare into your very soul and burn you with the knowledge that you are about to be introduced to your creator.</p>
+  choice1: I don't want to die.
+  choice2:
+  choice3:
+  link1: page_40.html
+  link2:
+  link3:
+
+page_40:
+  image:
+  alt:
+  text: |
+    <p>You do not realize that you've been slowly stepping backwards until your heel catches on something soft. You make the mistake of breaking eye contact and look down to see what's left of poor Johann. His eyes are wide and sightless, and there is a bloody hole where his heart used to be. More chunks of him are missing, but the cavity on the left side of his chest is what you focus on before you're knocked to the ground.</p>
+
+    <p>You look up. Your eyes meet the molten gold of the creature's. Someone is calling your name. It sounds like Fritz. You open your mouth to scream for him to go, to get help, but there's a sudden pain in the left side of your chest and then everything turns dark.</p>
+  choice1: Start over?
+  choice2:
+  choice3:
+  link1: index.html
+  link2:
+  link3:
+
+page_41:
+  image:
+  alt:
+  text: |
+    <p>Fritz nods that he is. <i>It'll be okay,</i> he assures her. <i>I'll be back before you know it.</i></p>
+
+    <p>He tries to look unafraid, but you can see the cracks around the edges of his mask. He's trying to be brave for Lena's sake and for the sake of their friend, but the poor boy is terrified. They both are.</p>
+  choice1: Stay with Lena.
+  choice2: Go with Fritz.
+  choice3:
+  link1: page_45.html
+  link2: page_42.html
+  link3:
+
+page_42:
+  image:
+  alt:
+  text: |
+    <p>You put a hand on Fritz's shoulder, and relief is palpable on his face once he realizes that he doesn't have to go into the woods by himself. Lena still looks scared, but you tell her to stay there and wait, assuring her that Johann can't have gotten far and that you'll all be out of there and safe in Bedburg soon enough. She doesn't look convinced, but nods and agrees to wait for you and Fritz to come back.</p>
+
+    <p>You take charge and lead Fritz into the woods. Fritz calls out for Johann while you focus on scanning the trees for sound or movement. There is silence save for the noise that you and Fritz are making as you search.</p>
+  choice1: Be safe, my friends. Who knows what lurks in the shadows?
+  choice2:
+  choice3:
+  link1: page_43.html
+  link2:
+  link3:
+
+page_43:
+  image:
+  alt:
+  text: |
+    <p>Fritz finds the body before you do. He lets out a soft, wordless cry and falls to his knees next to his friend's corpse. Johann looks up both of you with wide, sightless eyes. Theres pieces of him missing, decorating the forest floor and the trees nearby with a wet, sticky red.</p>
+
+    <p>You don't know what to say. Johann was alive just a few minutes ago. You spoke with him, and let him investigate on his own, and now he's little more than a pile of skin and meat that used to be a boy. You never even heard him die.</p>
+  choice1: What could have killed him so quickly and brutally without even making a sound?
+  choice2:
+  choice3:
+  link1: page_44.html
+  link2:
+  link3:
+
+page_44:
+  image:
+  alt:
+  text: |
+    <p>A branch snaps behind you. You whirl around and see a hulking mass of darkness standing just outside of your lamplight. It's eyes are a yellow so bright and piercing that you could have mistaken them for stars.</p>
+
+    <p>Fritz turns to look, and you can see his reaction before he makes it. His eyes go wide and he opens his mouth for a scream that he never gets to make. The creature moves faster than your mind can recognize, and you don't even realize that Fritz is dead until his body hits the ground. Your own death is just as quick. You fall, and the last thing you see before the black overtakes you are twin yellow stars that you could've sworn had been eyes.</p>
+  choice1: Start over?
+  choice2:
+  choice3:
+  link1: index.html
+  link2:
+  link3:
+
+page_45:
+  image:
+  alt:
+  text: |
+    <p>Just like Johann, Fritz disappears into the woods almost as soon as he enters. His soft footfalls fade into the distance, and then you and Lena are left alone in the torchlight.</p>
+
+    <p>You wait together, accompanied by the chirping sounds of night. One minute passes, then another, then another, then another. Lena fidgets next to you, tugging on her dress sleeves and worrying at her lower lip with her teeth.</p>
+  choice1: They've been gone too long. We should've heard something by now.
+  choice2:
+  choice3:
+  link1: page_46.html
+  link2:
+  link3:
+
+page_46:
+  image:
+  alt:
+  text: |
+    <p>You’re inclined to agree. At the very least, you would’ve heard one of them shouting back to let the two of you know that they had found each other. You watch Lena a while longer. Her brow is furrowed as she watches the trees, and then, almost imperceptibly, something changes.</p>
+
+    <p>Her back stiffens. Her fingers clench around the handle of her lamp until her knuckles are almost white, and she looks at you with wide eyes.</p>
+  choice1: We need to run. Right now.
+  choice2:
+  choice3:
+  link1: page_47.html
+  link2:
+  link3:
+
+page_47:
+  image:
+  alt:
+  text: <p>You look to the spot in the woods where she was just looking, and then you hear it too. A low growl. A black shape moving between the trees. You look back at Lena, and she repeats herself.</p>
+  choice1: Run.
+  choice2:
+  choice3:
+  link1: page_48.html
+  link2:
+  link3:
+
+page_48:
+  image:
+  alt:
+  text: <p>The two of you take off towards Bedburg. As soon as you do, the black shape barrels out of the trees and gives chase. It runs on all fours, and you can hear it gallop on the road behind you. You are fast, but Lena struggles to keep pace. You grab her wrist and pull her along. Neither of you are dying today.</p>
+  choice1: Don't stop running.
+  choice2:
+  choice3:
+  link1: page_49.html
+  link2:
+  link3:
+
+page_49:
+  image:
+  alt:
+  text: |
+    <p>Behind you, the creature lets out a low, braying howl that grates on your ears and makes your the hair on the back of your neck stand on end. You push yourself to run even faster.</p>
+
+    <p>Your heart pounds in your chest as you sprint, hand in hand with Lena. The wall of Bedburg rises in the distance. You can see it. You can see the gates!</p>
+  choice1: You do not need to be faster than the creature.
+  choice2:
+  choice3:
+  link1: page_50.html
+  link2:
+  link3:
+
+page_50:
+  image:
+  alt:
+  text: |
+    <p>There isn't enough air in your lungs to scream and keep you running at the same time, so you focus on the latter. The latter will keep you alive.</p>
+
+    <p>You haven't dared look back ever since you started running. You can hear it panting and snuffling, growling and yelling after you. Lena's breaths are coming in quickened pants. She's struggling to keep up. Just a little further. You can make it a little further.</p>
+  choice1: You just need to be faster than the person behind you.
+  choice2:
+  choice3:
+  link1: page_51.html
+  link2:
+  link3:
+
+page_51:
+  image:
+  alt:
+  text: Lena is holding your hand and running beside you. Then she is yanked free from your grip and you almost fall forward from the sudden lack of weight. She tries to scream; you can hear the beginnings of it before it melts into a gurgle. Louder still is the wet thud of a body hitting the cold dirt road.
+  choice1: Turn and save Lena from the thing that's grabbed her.
+  choice2: Keep running. There is no saving her now.
+  choice3:
+  link1: page_52.html
+  link2: page_54.html
+  link3:
+
+page_52:
+  image:
+  alt:
+  text: |
+    <p>You fall to the ground, and in doing so let go of your lamp. Its light flickers out and leaves you in the dark. You push yourself up onto your elbows and make the mistake of looking back.</p>
+
+    <p>The night is dark. The creature butchering Lena is even darker. But just like how the night is lit by stars and the full moon, this thing is lit by its burning Hellfire eyes. You let out a gasp and instantly regret doing so.</p>
+  choice1: The creature's attention snaps to you.
+  choice2:
+  choice3:
+  link1: page_53.html
+  link2:
+  link3:
+
+page_53:
+  image:
+  alt:
+  text: <p>You make eye contact and can feel the creature staring into your soul, liquifying you from the inside out. Then it smiles, and you are given the mercy of a quick death.</p>
+  choice1: Start over?
+  choice2:
+  choice3:
+  link1: index.html
+  link2:
+  link3:
+
+page_54:
+  image:
+  alt:
+  text: |
+    <p>You wish you could claim to have felt something in the moment. Anger, grief, despair. But the only thing that mattered to you was putting distance between yourself and the creature from the woods, and if it was distracted with Lena, then it wasn't paying attention to you.</p>
+
+    <p>You make it to Bedburg, in the end. You reach the orange lamplight of the gates and scream to be let in.</p>
+  choice1: There is something chasing me, you cry. It took Lena! It took all of them!
+  choice2:
+  choice3:
+  link1: page_55.html
+  link2:
+  link3:
+
+page_55:
+  image:
+  alt:
+  text: |
+    <p>The townspeople open the gate and let you in. You're introduced to Bedburg's alderman. They've been expecting you, after all. You're shown a place to rest, but it is impossible to get any sleep that night.</p>
+
+    <p>You don't know if there is any truth to what the stories that you've heard about this place, but <i>something</i> killed Lena. That something likely killed Johann and Fritz as well.</p>
+  choice1: The full moon mocks you through the window.
+  choice2:
+  choice3:
+  link1: page_56.html
+  link2:
+  link3:
+
+page_56:
+  image:
+  alt:
+  text: |
+    <p>The next day, a search party is sent out into the woods, and your suspicions of Johann and Fritz's fate are confirmed when their are found mangled and torn apart. Their mothers hold each other and weep when they hear the news. They were just kids.</p>
+
+    <p>They search party couldn't find Lena. The only sign of her is the blood on the road and a torn scrap of her dress on a nearby tree. A secret part of you wishes that they never find her, because it is likely that she suffered a fate worse than that of her friends.</p>
+
+    <p>You owe it Lena, Johann, and Fritz to find the thing that murdered them. You will stop at nothing until you do.</p>
+  choice1: Start over?
+  choice2:
+  choice3:
+  link1: index.html
   link2:
   link3:
