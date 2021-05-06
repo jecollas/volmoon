@@ -27,8 +27,18 @@
 
 # vm7 (girl attacked) - https://cdn.discordapp.com/attachments/829501706895097877/838137461762293841/vm7.png
 
+# vm8 (creature crouch) - https://cdn.discordapp.com/attachments/829501706895097877/838516148882374727/vm8.png
+
+# vm9 (bloody creature) - https://cdn.discordapp.com/attachments/829501706895097877/838820174420246598/vm9.png
+
+# vm10 (moon and clouds) - https://cdn.discordapp.com/attachments/829501706895097877/838843560157118494/vm10.png
+
+# vm11 (eyes in the woods) - https://cdn.discordapp.com/attachments/829501706895097877/839576781257703434/vm11.png
+
+# vm12 (creature pounce) - https://cdn.discordapp.com/attachments/829501706895097877/839681615835562034/vm12.png
+
 page_00:
-  image: https://cdn.discordapp.com/attachments/829501706895097877/829501900268240946/trans-test4.png
+  image: https://cdn.discordapp.com/attachments/829501706895097877/839698491760574464/logo.png
   alt:
   text:
   choice1: Let's begin.
@@ -38,6 +48,7 @@ page_00:
   link2:
   link3:
 
+# vm2
 page_01:
   image: https://cdn.discordapp.com/attachments/829501706895097877/835211497750790154/vm2.png
   alt:
@@ -56,6 +67,7 @@ page_01:
   link2:
   link3:
 
+# vm1
 page_02:
   image: https://cdn.discordapp.com/attachments/829501706895097877/835211481880330270/vm1.png
   alt:
@@ -70,6 +82,7 @@ page_02:
   link2: page_03.html
   link3:
 
+# vm3
 page_03:
   image: https://cdn.discordapp.com/attachments/829501706895097877/835211531867914280/vm3.png
   alt:
@@ -86,6 +99,7 @@ page_03:
   link2:
   link3:
 
+# vm3
 page_04:
   image: https://cdn.discordapp.com/attachments/829501706895097877/835211531867914280/vm3.png
   alt:
@@ -100,6 +114,7 @@ page_04:
   link2:
   link3:
 
+# vm7
 page_05:
   image: https://cdn.discordapp.com/attachments/829501706895097877/838137461762293841/vm7.png
   alt:
@@ -114,8 +129,9 @@ page_05:
   link2: page_12.html
   link3: page_18.html
 
+# vm7
 page_06:
-  image:
+  image: https://cdn.discordapp.com/attachments/829501706895097877/838137461762293841/vm7.png
   alt:
   text: |
     <p>Panic and anger spurs you into action, and without any thought or hesitation, you reach out smack your new cow friend in the rump with the palm of your hand. The cow lets out a startled cry and surges forwards, running away from you and more importantly, directly towards the thing that holds the little girl in peril.</p>
@@ -128,8 +144,9 @@ page_06:
   link2:
   link3:
 
+# vm7
 page_07:
-  image:
+  image: https://cdn.discordapp.com/attachments/829501706895097877/838137461762293841/vm7.png
   alt:
   text: <p>The creature jumps out of the cow's path before they can collide. It drags the little girl with it, and movement finally drags a wail from her bloodied lips. The collar of her dress is almost black in the low light of oncoming dusk.</p>
   choice1: Do not anger, my love, or the Monster will take you away.
@@ -139,8 +156,9 @@ page_07:
   link2:
   link3:
 
+# vm7
 page_08:
-  image:
+  image: https://cdn.discordapp.com/attachments/829501706895097877/838137461762293841/vm7.png
   alt:
   text: <p>There is a reason why it is unwise for children to play where the cattle graze. Cows are easily startled creatures, and sometimes all it takes is one wayward cry to cause the rest to stampede.</p>
   choice1: Obey me, my love, or the Monster will eat you for dinner.
@@ -150,8 +168,9 @@ page_08:
   link2:
   link3:
 
+# vm7
 page_09:
-  image:
+  image: https://cdn.discordapp.com/attachments/829501706895097877/838137461762293841/vm7.png
   alt:
   text: |
     <p>The ground rumbles beneath your feet as the tide of stampede begins to swell. The creature may have been able to avoid being trampled by one cow, but it will not be able to escape the rest of them. The creature turns, and in that moment you know that it aims to leave with the little girl as its prize.</p>
@@ -164,8 +183,9 @@ page_09:
   link2:
   link3:
 
+# vm7
 page_10:
-  image:
+  image: https://cdn.discordapp.com/attachments/829501706895097877/838137461762293841/vm7.png
   alt:
   text: <p>The creature is struck by one of the stampeding cows, having been too distracted by its focused fury towards you to even think about running. It yelps in pain, and in that moment, lets go of the little girl. Her body is airborne, limp like a doll's when the creature tosses her aside. You dive towards her, arms outstretched, and snatch her out of the air. You tumble, and as you fall into the path of the stampede you fold yourself around the bleeding girl to shield her from any further harm.</p>
   choice1: I promise, I will keep you safe.
@@ -175,8 +195,9 @@ page_10:
   link2:
   link3:
 
+# vm8
 page_11:
-  image:
+  image: https://cdn.discordapp.com/attachments/829501706895097877/838516148882374727/vm8.png
   alt:
   text: |
     <p>It was stupid, what you did. Brave, reckless, and very stupid. There is an eternity of dust and blood and thundering hooves before the world falls silent once again. Your ears ring with white noise. For a long moment, you are convinced that you're dead.</p>
@@ -199,8 +220,9 @@ page_11:
   link2:
   link3:
 
+# vm7
 page_12:
-  image:
+  image: https://cdn.discordapp.com/attachments/829501706895097877/838137461762293841/vm7.png
   alt:
   text: <p>Panic and fear spurs you into action, and without any thought or hesitation, you are running as fast and as far away as your legs will carry you.</p>
   choice1: Scream.
@@ -210,8 +232,9 @@ page_12:
   link2:
   link3:
 
+# vm7
 page_13:
-  image:
+  image: https://cdn.discordapp.com/attachments/829501706895097877/838137461762293841/vm7.png
   alt:
   text: |
     <p>The cries tear from your throat as you run. Oh, God, someone help. It's killing her. It's killing her! Someone, anyone help.</p>
@@ -226,8 +249,9 @@ page_13:
   link2:
   link3:
 
+# vm7
 page_14:
-  image:
+  image: https://cdn.discordapp.com/attachments/829501706895097877/838137461762293841/vm7.png
   alt:
   text: <p>You feel the faint rumble of the ground beneath your feet as the tide of stampede begins to swell behind you. The creature may be able to avoid being trampled by one cow, but it will not be able to escape the rest of them. You know this in the back of your mind, but the thought never registers.</p>
   choice1: Nobody can hear you. Nobody would care if they did.
@@ -237,8 +261,9 @@ page_14:
   link2:
   link3:
 
+# vm8
 page_15:
-  image:
+  image: https://cdn.discordapp.com/attachments/829501706895097877/838516148882374727/vm8.png
   alt:
   text: <p>Rough hands grab at your shoulders and stop you in your tracks. One of the farmers is holding you by the shirt collar and demanding to know what's going on. You babble something about a cow and the girl and the thing that grabbed her and its eyes, oh God, its terrible eyes. They burn straight through your soul and into Hell and even when you cover your face and block out the world you cannot escape those horrible, inhuman eyes.</p>
   choice1: God help us, the Monster is coming for us all.
@@ -248,8 +273,9 @@ page_15:
   link2:
   link3:
 
+# vm8
 page_16:
-  image:
+  image: https://cdn.discordapp.com/attachments/829501706895097877/838516148882374727/vm8.png
   alt:
   text: |
     <p>The farmer shakes you in an attempt to snap you out of your panicked stupor. He roars for you to pull yourself together, and despite everything, you do.</p>
@@ -262,8 +288,9 @@ page_16:
   link2:
   link3:
 
+# vm10
 page_17:
-  image:
+  image: https://cdn.discordapp.com/attachments/829501706895097877/838843560157118494/vm10.png
   alt:
   text: |
     <p>You're half escorted, half carried to a wagon that the farmers say is on its way to Bedburg. You hear them and nod, but you cannot stop thinking about the creature's monstrous gaze. You never made eye contact with the creature directly, but it was hard to miss the malice in those eyes – hatred and glee like you have never seen before. You do not wish to see them again.</p>
@@ -276,8 +303,9 @@ page_17:
   link2:
   link3:
 
+# vm7
 page_18:
-  image:
+  image: https://cdn.discordapp.com/attachments/829501706895097877/838137461762293841/vm7.png
   alt:
   text: |
     <p>Panic and fear roots you to the spot. Your fingers clench around the straps of your pack and you watch with wide unblinking eyes as the creature creature starts to move. It shakes its head back and forth, adjusting its grip on her with its teeth. It's going to drag her away, you realize. It will take her and kill her and leave her body slaughtered and mangled for some poor soul to find.</p>
@@ -290,8 +318,9 @@ page_18:
   link2:
   link3:
 
+# vm7
 page_19:
-  image:
+  image: https://cdn.discordapp.com/attachments/829501706895097877/838137461762293841/vm7.png
   alt:
   text: <p>The girl's eyes are brown, you notice. They're bright, and reflect the fading sunlight in tiny hints of gold. She stares at nothing in return, but you can see pinpricks of tears start to roll down her cheeks.</p>
   choice1: Don't bother blinking, for your eyes will remain wide.
@@ -301,8 +330,9 @@ page_19:
   link2:
   link3:
 
+# vm7
 page_20:
-  image:
+  image: https://cdn.discordapp.com/attachments/829501706895097877/838137461762293841/vm7.png
   alt:
   text: |
     <p>The other children haven't noticed anything yet. How haven't they noticed? The hulking creature has had their friend between its teeth for what feels like years, but none of them have turned to look.</p>
@@ -317,8 +347,9 @@ page_20:
   link2:
   link3:
 
+# vm7
 page_21:
-  image:
+  image: https://cdn.discordapp.com/attachments/829501706895097877/838137461762293841/vm7.png
   alt:
   text: |
     <p>In the end, the girl is her own hero. The creature's teeth clamp down harder on her neck. She whimpers in pain as the bloodstains on her dress widen from pools to lakes, and it's almost as if the involuntary sound reminds her that she is still able to scream. Her mouth drops open, and the sound that comes out is less the scream of a girl in pain, and more the cry of a dying animal. It tears through you, standing the hair on the back of your neck, and that moment – that oil painting that trapped you for an eon and an age – comes undone.</p>
@@ -331,15 +362,16 @@ page_21:
   link2:
   link3:
 
+# vm7
 page_22:
-  image:
+  image: https://cdn.discordapp.com/attachments/829501706895097877/838137461762293841/vm7.png
   alt:
   text: |
-    <p>You watched, helpless as the creature tried to flee with the girl still held in its jaws. It was big, strong, and no doubt fast enough to avoid being trampled by one or two of the cattle, but there was no way that it would be able to escape the rest of them. At least, not with the little girl still in its grasp. She would only slow the thing down, and spell its inevitable doom.</p>
+    <p>You watch, helpless as the creature tried to flee with the girl still held in its jaws. It is big, strong, and no doubt fast enough to avoid being trampled by one or two of the cattle, but there was no way that it would be able to escape the rest of them. At least, not with the little girl still in its grasp. She would only slow the thing down, and spell its inevitable doom.</p>
 
-    <p>The creature dropped the girl. She crumpled like a discarded doll and was lost to your unblinking eyes. The creature, on the other hand, was not. It turned to flee, and when it did its eyes locked on yours and only then did you finally lose strength and fall to your knees.</p>
+    <p>The creature drops the girl. She crumples like a discarded doll and was lost to your unblinking eyes. The creature, on the other hand, was not. It turns to flee, and when it does its eyes lock on yours and only then do you finally lose strength and fall to your knees.</p>
 
-    <p>The creature's eyes were a brilliant, burning, blazing gold. Hateful like Hellfire and molten like metal from a blacksmith's forge. They were not the eyes of a human man, but never in your life had you seen an animal whose gaze held that much intelligence and that much intent to kill.</p>
+    <p>The creature's eyes are a brilliant, burning, blazing gold. Hateful like Hellfire and molten like metal from a blacksmith's forge. They are not the eyes of a human, but never in your life had you seen an animal whose gaze held that much intelligence and that much intent to kill.</p>
   choice1: Inaction is itself an action, and yields consequence much the same.
   choice2:
   choice3:
@@ -347,8 +379,9 @@ page_22:
   link2:
   link3:
 
+# vm8
 page_23:
-  image:
+  image: https://cdn.discordapp.com/attachments/829501706895097877/838516148882374727/vm8.png
   alt:
   text: |
     <p>They burn through you, those eyes. They stare into your very being and weigh the contents of your soul. You do not know how this creature finds you, but it is unlikely that you are worthy of being spared. The townspeople weren't lying. The Monster of Bedburg is real, and it will hunt you like an animal if you give it half the chance.</p>
@@ -365,8 +398,9 @@ page_23:
   link2:
   link3:
 
+# vm10
 page_24:
-  image: https://cdn.discordapp.com/attachments/829501706895097877/835211497750790154/vm2.png
+  image: https://cdn.discordapp.com/attachments/829501706895097877/838843560157118494/vm10.png
   alt:
   text: <p>Dusk settles upon the pines and autumn trees. By the time you finally have the strength to stand, the stars have already gathered themselves into constellations. Night has fallen, and you are still not any closer to Bedburg than you were before this whole ordeal began. The yellow moon mocks you from its place in the sky, burning with malice and glee. You have no choice but to keep walking.</p>
   choice1: Start over?
@@ -376,6 +410,7 @@ page_24:
   link2:
   link3:
 
+# vm2
 page_25:
   image: https://cdn.discordapp.com/attachments/829501706895097877/835211497750790154/vm2.png
   alt:
@@ -394,6 +429,7 @@ page_25:
   link2:
   link3:
 
+# vm5
 page_26:
   image: https://cdn.discordapp.com/attachments/829501706895097877/835579086583627776/vm5.png
   alt:
@@ -405,6 +441,7 @@ page_26:
   link2:
   link3:
 
+# vm5
 page_27:
   image: https://cdn.discordapp.com/attachments/829501706895097877/835579086583627776/vm5.png
   alt:
@@ -419,8 +456,9 @@ page_27:
   link2:
   link3:
 
+# vm5
 page_28:
-  image:
+  image: https://cdn.discordapp.com/attachments/829501706895097877/835579086583627776/vm5.png
   alt:
   text: |
     <p>You nod, only somewhat satisfied with the answer and easy smile that Fritz gives you, and look where he points. You have to squint your eyes and crane your neck forward to see through the trees, but sure enough, you can just make out the great stone wall that encircles the entire town.</p>
@@ -433,8 +471,9 @@ page_28:
   link2:
   link3:
 
+# vm5
 page_29:
-  image:
+  image: https://cdn.discordapp.com/attachments/829501706895097877/835579086583627776/vm5.png
   alt:
   text: <p>Lena's question gives you pause. You don't want to scare her or the others, but if they live in Bedburg, wouldn't they already know about the creature?</p>
   choice1: Tell the truth.
@@ -444,8 +483,9 @@ page_29:
   link2: page_31.html
   link3:
 
+# vm5
 page_30:
-  image:
+  image: https://cdn.discordapp.com/attachments/829501706895097877/835579086583627776/vm5.png
   alt:
   text: |
     <p>Somewhat reluctantly, you tell your new friends that you've been sent for to investigate what's been happening in Bedburg. The people going missing, the cattle being slaughtered, the bodies being found in the woods. They listen in solemn silence, the good-natured expressions having gone from their faces. They know something, that much is obvious.</p>
@@ -464,8 +504,9 @@ page_30:
   link2:
   link3:
 
+# vm5
 page_31:
-  image:
+  image: https://cdn.discordapp.com/attachments/829501706895097877/835579086583627776/vm5.png
   alt:
   text: <p>You laugh off Lena's question. No, but you've been traveling on foot for ages now, and you're looking forward to a bed and a hot meal. She hums in agreement and doesn't push you further. You're grateful for that – you don't want to potentially scare your new friends. They'll find out who you are and what your business is in Bedburg soon enough.</p>
   choice1: There's nothing to fear from the night.
@@ -475,8 +516,9 @@ page_31:
   link2:
   link3:
 
+# vm5
 page_32:
-  image:
+  image: https://cdn.discordapp.com/attachments/829501706895097877/835579086583627776/vm5.png
   alt:
   text: <p>The four of you continue on your way, basking in the assumed safety of your lanterns and each others' company. That safety is ripped out from under you when a scream tears through the night.</p>
   choice1: Help, please! Somebody help me!
@@ -486,8 +528,9 @@ page_32:
   link2:
   link3:
 
+# vm11
 page_33:
-  image:
+  image: https://cdn.discordapp.com/attachments/829501706895097877/839576781257703434/vm11.png
   alt:
   text: <p>Everyone stops in their tracks. All eyes dart towards the edge of the woods, then to each other. Johann, Lena, and Fritz all murmur to themselves, a soft chorus of, <i>Did you hear that? Of course I heard it. Who could it have been? I didn't recognize the voice. Was it a man? A woman? It sounded too old to be a child. What do we do?</i></p>
   choice1: Someone should investigate.
@@ -497,8 +540,9 @@ page_33:
   link2: page_35.html
   link3:
 
+# vm11
 page_34:
-  image:
+  image: https://cdn.discordapp.com/attachments/829501706895097877/839576781257703434/vm11.png
   alt:
   text: <p>There's a moment of silence as the four of you look at each other. <i>Who will go? Who will it be?</i> You are about to volunteer when Johann steps up, lantern in hand.</p>
   choice1: Stay here. I'll be right back.
@@ -508,8 +552,9 @@ page_34:
   link2:
   link3:
 
+# vm11
 page_35:
-  image:
+  image: https://cdn.discordapp.com/attachments/829501706895097877/839576781257703434/vm11.png
   alt:
   text: |
     <p>You urge your new friends to ignore it. Whatever's happening is not your business. The woods are dangerous, and if any of you were to go out and investigate, you would surely meet the same fate as the poor soul calling for aid.</p>
@@ -522,8 +567,9 @@ page_35:
   link2:
   link3:
 
+# vm11
 page_36:
-  image:
+  image: https://cdn.discordapp.com/attachments/829501706895097877/839576781257703434/vm11.png
   alt:
   text: |
     <p>You watch as Johann pushes his way past the tree line and is immediately engulfed by shadow. He calls out to the hidden voice, asking it where it is, to stay there, and assuring that help is on the way. His voice fades quickly, as does the sound of crunching leaves and breaking sticks that mark Johann's footfalls. Even the light of his lantern becomes invisible past the trees and the growing dark.</p>
@@ -536,8 +582,9 @@ page_36:
   link2:
   link3:
 
+# vm11
 page_37:
-  image:
+  image: https://cdn.discordapp.com/attachments/829501706895097877/839576781257703434/vm11.png
   alt:
   text: <p>Lena looks at Fritz with wide eyes, but his brow is set as he stares out into the forest. She touches his arm and asks if he's sure.</p>
   choice1: Say nothing.
@@ -547,8 +594,9 @@ page_37:
   link2: page_38.html
   link3:
 
+# vm11
 page_38:
-  image:
+  image: https://cdn.discordapp.com/attachments/829501706895097877/839576781257703434/vm11.png
   alt:
   text: |
     <p>You raise a hand and interrupt. The relief on Fritz's face is palpable as you tell him to wait there with Lena. They stand close, their lamp light creating a point of origin as you venture off the beaten path and into the woods.</p>
@@ -563,8 +611,9 @@ page_38:
   link2:
   link3:
 
+# vm8
 page_39:
-  image:
+  image: https://cdn.discordapp.com/attachments/829501706895097877/838516148882374727/vm8.png
   alt:
   text: |
     <p>The thing emerges from the dark. It approaches on all fours like an animal, but is standing on two legs by the time it steps into your small circle of light. It is massive – too large to be human, but human enough to be wearing shoes. It smiles at you, its jagged teeth a gleaming white save for the fresh blood that still decorates its lips.</p>
@@ -577,6 +626,7 @@ page_39:
   link2:
   link3:
 
+# vm4
 page_40:
   image: https://cdn.discordapp.com/attachments/829501706895097877/835252836706287716/vm4.png
   alt:
@@ -591,8 +641,9 @@ page_40:
   link2:
   link3:
 
+# vm11
 page_41:
-  image:
+  image: https://cdn.discordapp.com/attachments/829501706895097877/839576781257703434/vm11.png
   alt:
   text: |
     <p>Fritz nods that he is. <i>It'll be okay,</i> he assures her. <i>I'll be back before you know it.</i></p>
@@ -605,8 +656,9 @@ page_41:
   link2: page_42.html
   link3:
 
+# vm11
 page_42:
-  image:
+  image: https://cdn.discordapp.com/attachments/829501706895097877/839576781257703434/vm11.png
   alt:
   text: |
     <p>You put a hand on Fritz's shoulder, and relief is palpable on his face once he realizes that he doesn't have to go into the woods by himself. Lena still looks scared, but you tell her to stay there and wait, assuring her that Johann can't have gotten far and that you'll all be out of there and safe in Bedburg soon enough. She doesn't look convinced, but nods and agrees to wait for you and Fritz to come back.</p>
@@ -619,6 +671,7 @@ page_42:
   link2:
   link3:
 
+# vm4
 page_43:
   image: https://cdn.discordapp.com/attachments/829501706895097877/835252836706287716/vm4.png
   alt:
@@ -633,6 +686,7 @@ page_43:
   link2:
   link3:
 
+# vm4
 page_44:
   image: https://cdn.discordapp.com/attachments/829501706895097877/835252836706287716/vm4.png
   alt:
@@ -647,8 +701,9 @@ page_44:
   link2:
   link3:
 
+# vm11
 page_45:
-  image:
+  image: https://cdn.discordapp.com/attachments/829501706895097877/839576781257703434/vm11.png
   alt:
   text: |
     <p>Just like Johann, Fritz disappears into the woods almost as soon as he enters. His soft footfalls fade into the distance, and then you and Lena are left alone in the torchlight.</p>
@@ -661,8 +716,9 @@ page_45:
   link2:
   link3:
 
+# vm11
 page_46:
-  image:
+  image: https://cdn.discordapp.com/attachments/829501706895097877/839576781257703434/vm11.png
   alt:
   text: |
     <p>You’re inclined to agree. At the very least, you would’ve heard one of them shouting back to let the two of you know that they had found each other. You watch Lena a while longer. Her brow is furrowed as she watches the trees, and then, almost imperceptibly, something changes.</p>
@@ -675,8 +731,9 @@ page_46:
   link2:
   link3:
 
+# vm11
 page_47:
-  image:
+  image: https://cdn.discordapp.com/attachments/829501706895097877/839576781257703434/vm11.png
   alt:
   text: <p>You look to the spot in the woods where she was just looking, and then you hear it too. A low growl. A black shape moving between the trees. You look back at Lena, and she repeats herself.</p>
   choice1: Run.
@@ -686,8 +743,9 @@ page_47:
   link2:
   link3:
 
+# vm12
 page_48:
-  image:
+  image: https://cdn.discordapp.com/attachments/829501706895097877/839681615835562034/vm12.png
   alt:
   text: <p>The two of you take off towards Bedburg. As soon as you do, the black shape barrels out of the trees and gives chase. It runs on all fours, and you can hear it gallop on the road behind you. You are fast, but Lena struggles to keep pace. You grab her wrist and pull her along. Neither of you are dying today.</p>
   choice1: Don't stop running.
@@ -697,8 +755,9 @@ page_48:
   link2:
   link3:
 
+# vm12
 page_49:
-  image:
+  image: https://cdn.discordapp.com/attachments/829501706895097877/839681615835562034/vm12.png
   alt:
   text: |
     <p>Behind you, the creature lets out a low, braying howl that grates on your ears and makes your the hair on the back of your neck stand on end. You push yourself to run even faster.</p>
@@ -711,8 +770,9 @@ page_49:
   link2:
   link3:
 
+# vm12
 page_50:
-  image:
+  image: https://cdn.discordapp.com/attachments/829501706895097877/839681615835562034/vm12.png
   alt:
   text: |
     <p>There isn't enough air in your lungs to scream and keep you running at the same time, so you focus on the latter. The latter will keep you alive.</p>
@@ -725,8 +785,9 @@ page_50:
   link2:
   link3:
 
+#vm9
 page_51:
-  image:
+  image: https://cdn.discordapp.com/attachments/829501706895097877/838820174420246598/vm9.png
   alt:
   text: <p>Lena is holding your hand and running beside you. Then she is yanked free from your grip and you almost fall forward from the sudden lack of weight. She tries to scream; you can hear the beginnings of it before it melts into a gurgle. Louder still is the wet thud of a body hitting the cold dirt road.</p>
   choice1: Turn and save Lena from the thing that's grabbed her.
@@ -736,8 +797,9 @@ page_51:
   link2: page_54.html
   link3:
 
+#vm9
 page_52:
-  image:
+  image: https://cdn.discordapp.com/attachments/829501706895097877/838820174420246598/vm9.png
   alt:
   text: |
     <p>You fall to the ground, and in doing so let go of your lamp. Its light flickers out and leaves you in the dark. You push yourself up onto your elbows and make the mistake of looking back.</p>
@@ -750,8 +812,9 @@ page_52:
   link2:
   link3:
 
+# vm4
 page_53:
-  image:
+  image: https://cdn.discordapp.com/attachments/829501706895097877/835252836706287716/vm4.png
   alt:
   text: <p>You make eye contact and can feel the creature staring into your soul, liquifying you from the inside out. Then it smiles, and you are given the mercy of a quick death.</p>
   choice1: Start over?
@@ -761,8 +824,9 @@ page_53:
   link2:
   link3:
 
+# vm9
 page_54:
-  image:
+  image: https://cdn.discordapp.com/attachments/829501706895097877/838820174420246598/vm9.png
   alt:
   text: |
     <p>You wish you could claim to have felt something in the moment. Anger, grief, despair. But the only thing that mattered to you was putting distance between yourself and the creature from the woods, and if it was distracted with Lena, then it wasn't paying attention to you.</p>
@@ -775,6 +839,7 @@ page_54:
   link2:
   link3:
 
+# vm6
 page_55:
   image: https://cdn.discordapp.com/attachments/829501706895097877/837390953039790080/vm6.png
   alt:
@@ -789,6 +854,7 @@ page_55:
   link2:
   link3:
 
+# vm6
 page_56:
   image: https://cdn.discordapp.com/attachments/829501706895097877/837390953039790080/vm6.png
   alt:
