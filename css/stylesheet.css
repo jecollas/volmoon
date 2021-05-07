@@ -1,33 +1,49 @@
-/* stylesheet */
+/* Volmoon Color Guide */
+/*
+From Illustration Flats:
+  #1A1A1A: dark grey from illustration flats,
+  - used for the body behind the textbox;
+  #FFCC01: yellow,
+  - used for hover text;
+
+Website Colors:
+  #202124: dark grey,
+  - used for textbox background;
+  #939290: grey,
+  - used for 'begin again' text;
+  #BBBBBB: light grey,
+  - used for body text;
+  #DDDDDD: lightest grey,
+  - used for script text;
+*/
+
+/* Volmoon Stylesheet */
 
 html,
 body {
-  /* #302E2D; */
+  height: 100%;
   background-color: #1A1A1A;
   font-family: 'Artifika', serif;
 }
 
 .box {
+  height: 100%;
   background-color: #202124;
-  width: 80%;
   margin-left: auto;
   margin-right: auto;
 }
 
 .vol-img {
-  max-width: 80%;
   height: auto;
-  margin: auto;
   display: block;
+  margin: auto;
   padding-top: 3em;
   padding-bottom: 2em;
 }
 
 p {
-  color: #B3B3B3;
-  font-size: 14pt;
+  color: #BBBBBB;
   text-indent: 1.5em;
-  max-width: 80%;
   margin-top: 0;
   margin-bottom: 1;
   margin-left: auto;
@@ -36,14 +52,28 @@ p {
 
 .links {
   font-family: 'Tangerine', cursive;
-  font-size: 45pt;
-  line-height: 1.1;
+  line-height: 1.2;
   list-style-type: none;
   text-align: center;
-  max-width: 75%;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
   margin-left: auto;
   margin-right: auto;
-  padding-top: 0.5em;
+}
+
+.return-start {
+  padding-top: 2em;
+  padding-bottom: 2em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.return-start a {
+  color: #939290;
+}
+
+a {
+  color: #DDDDDD;
 }
 
 a,
@@ -51,57 +81,118 @@ a:hover {
   text-decoration: none;
 }
 
-a {
-  color: #DDDDDD;
-}
-
 a:hover,
 .return-start a:hover {
   color: #FFCC01;
 }
 
-.return-start {
-  padding-top: 2em;
-  padding-left: 1em;
-}
 
-.return-start a {
-  color: #939290;
-}
+/* Media Screen Stuff */
+/* device breakpoint sizes from w3schools */
 
-.box .return-start {
-  padding: 50px;
-}
-
-@media only screen and (max-width: 800px) {
-  html,
-  body {
-    background-color: #202124;
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .box {
+    width: 100%;
   }
 
   .vol-img {
-    max-width: 80%;
-    height: auto;
-  }
-
-  .box {
-    width: 100%;
-    padding: 0;
+    max-width: 98%;
   }
 
   p {
-    font-size: 14pt;
-    max-width: 80%;
+    font-size: 11pt;
+  }
+
+  .return-start {
+    font-size: 10pt;
+  }
+
+  .links {
+    font-size: 30pt;
+    max-width: 85%;
+  }
+
+  p,
+  .return-start {
+    max-width: 95%;
+  }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  .vol-img {
+    max-width: 85%;
+  }
+
+  p {
+    font-size: 12pt;
+  }
+
+  .return-start {
+    font-size: 12pt;
   }
 
   .links {
     font-size: 35pt;
     max-width: 80%;
-    margin-left: auto;
-    margin-right: auto;
   }
 
-  /* .links {
+  p,
+  .return-start {
+    max-width: 85%;
+  }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  .box {
+    width: 90%;
+  }
+
+  .vol-img {
+    max-width: 90%;
+  }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  .box {
+    width: 85%;
+  }
+
+  .vol-img {
+    max-width: 90%;
+  }
+
+  p {
+    font-size: 13pt;
+  }
+
+  .links {
+    font-size: 38pt;
+    max-width: 90%;
+  }
+
+  p,
+  .return-start {
+    max-width: 85%;
+  }
+
+  .links {
+    max-width: 80%;
+  }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  .box {
     width: 80%;
-  } */
+  }
+
+  p,
+  .links,
+  .return-start {
+    max-width: 75%;
+  }
 }
