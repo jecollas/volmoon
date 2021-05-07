@@ -37,10 +37,11 @@
 
 # vm12 (creature pounce) - https://cdn.discordapp.com/attachments/829501706895097877/839681615835562034/vm12.png
 
+# index - animated logo
 page_00:
   image: https://cdn.discordapp.com/attachments/829501706895097877/839698491760574464/logo.png
   alt:
-  text:
+  text: <p style="text-align:center;">Welcome, weary traveler, to Volmoon.</p>
   choice1: Let's begin.
   choice2:
   choice3:
