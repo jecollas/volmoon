@@ -41,7 +41,10 @@
 page_00:
   image: https://cdn.discordapp.com/attachments/829501706895097877/839698491760574464/logo.png
   alt:
-  text: <p style="text-align:center;">Welcome, weary traveler, to Volmoon.</p>
+  text: |
+    <p>Greetings, weary traveler. It is truly wonderful that you've endeavored to approach. Come, let the darkness wrap around you and embrace you with that familiar fear of the unknown – that primal aversion to what may lurk unseen in the shadows. But fret not, dear traveler, for the moon is full and keeping watch as you navigate through these strange events and circumstances. Be as cautious or as reckless as you desire, for there is no such thing as a correct choice. After all, you are the one who will have to live with what happens next. It is all in your hands now.</p>
+
+    <p style="text-align:center;">Welcome to Volmoon.</p>
   choice1: Let's begin.
   choice2:
   choice3:
